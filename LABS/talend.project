@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_PrPTUF7HEe-Lgdz_aiEuTA" label="labs" description="" language="java" technicalLabel="LABS" author="_PrPTUV7HEe-Lgdz_aiEuTA" productVersion="Talend Real-time Big Data Platform-8.0.1.20230719_1030-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/yunanti29/git-adminTraining.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI">
+  <TalendProperties:Project xmi:id="_PrPTUF7HEe-Lgdz_aiEuTA" label="labs" description="" language="java" technicalLabel="LABS" author="_PrPTUV7HEe-Lgdz_aiEuTA" productVersion="Talend Real-time Big Data Platform-8.0.1.20230719_1030-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/yunanti29/git-adminTraining.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
     <migrationTask xmi:id="_Ptn48F7HEe-Lgdz_aiEuTA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_PrPTUV7HEe-Lgdz_aiEuTA" login="admin@company.com" firstName="admin" lastName="admin" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_k8N9oF7HEe-rM7wmVJqwaA" login="gituser@company.com" firstName="git" lastName="user" type="DQ" additionnalData="{}"/>
 </xmi:XMI>
